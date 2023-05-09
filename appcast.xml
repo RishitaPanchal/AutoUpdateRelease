@@ -1,0 +1,14 @@
+<?xml version="1.0" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>OnTimeMac Staging</title>
+        <item>
+            <title>1.0</title>
+            <pubDate>Fri, 05 May 2023 13:50:10 +0530</pubDate>
+            <sparkle:version>1</sparkle:version>
+            <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>11.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://bitbucket.org/simformteam/ontime-app-macos/src/656ba5ffa15ba0c4a3c8d53cce3d76f4a7d87d3f/OnTimeMac/OnTimeMac/Release/YourApp.dmg" length="16636051" type="application/octet-stream" sparkle:edSignature="TVTByPCOrIF/AslumLxJ6zc9T1fUE85KsmnfKjvM7BANeqsbf+ezn9gagF9YS0F4Aus9NhkcKbU5slo+hYX8AQ=="/>
+        </item>
+    </channel>
+</rss>
