@@ -8,7 +8,7 @@
             <sparkle:version>2</sparkle:version>
             <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>11.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://rishitapanchal@bitbucket.org/simformteam/ontime-app-macos.git/OnTimeMac%20Staging%202023-05-04%2018-21-24.dmg" length="33038617" type="application/octet-stream" sparkle:edSignature="xbiaaDPIqf8u/xZRMnVE2JCvtK7MXykvdiMaZd2r/F+L7kcznE2aPKpQgxZxl8y+qQbnZtQKDh8uNlhQ4MosCA=="/>
+            <enclosure url="https://github.com/RishitaPanchal/AutoUpdateRelease/releases/download/untagged-305a5f05663ead9179d8/OnTimeMac.Staging.2023-05-04.18-21-24.dmg" length="33038617" type="application/octet-stream" sparkle:edSignature="xbiaaDPIqf8u/xZRMnVE2JCvtK7MXykvdiMaZd2r/F+L7kcznE2aPKpQgxZxl8y+qQbnZtQKDh8uNlhQ4MosCA=="/>
         </item>
     </channel>
 </rss>
