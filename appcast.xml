@@ -4,11 +4,11 @@
         <title>OnTimeMac Staging</title>
         <item>
             <title>1.0</title>
-            <pubDate>Tue, 09 May 2023 15:25:58 +0530</pubDate>
+            <pubDate>Tue, 09 May 2023 22:39:28 +0530</pubDate>
             <sparkle:version>1</sparkle:version>
             <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>11.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://rishitapanchal@bitbucket.org/simformteam/ontime-app-macos.git/OntimeStaging.dmg" length="33038530" type="application/octet-stream" sparkle:edSignature="FIMWox2yvMpik90zUBqv/WcThuUS/zXgIdxAYGByUSh5vxg303wKv0kJwtWOCckSHIzCdaDvcIdDvBGs5w/wCw=="/>
+            <enclosure url="https://rishitapanchal@bitbucket.org/simformteam/ontime-app-macos.git/OnTimeMac%20Staging%202023-05-04%2018-21-24.dmg" length="33038617" type="application/octet-stream" sparkle:edSignature="xbiaaDPIqf8u/xZRMnVE2JCvtK7MXykvdiMaZd2r/F+L7kcznE2aPKpQgxZxl8y+qQbnZtQKDh8uNlhQ4MosCA=="/>
         </item>
     </channel>
 </rss>
